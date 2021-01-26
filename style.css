@@ -1,0 +1,62 @@
+table{
+    border: 960px ;
+    background-color: #50C6F8 ;
+    padding: 30px;
+    margin:  0 auto;
+}
+body{
+    background-color: #616161;
+    margin-left:214px ;
+    margin-right: 214px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+a:hover{
+    color: #001799;
+}
+a:active{
+    color: #001799;
+}
+.focim{
+    text-align: center;
+    border-bottom: #011272 double  6px;
+    
+}
+
+.nagyb{
+    text-transform: uppercase;
+    color: #010f5e;
+    border-bottom: dotted 1px;
+    border-top: solid 1px;
+    margin-right: 40%;
+}
+img{
+    width: 200px;
+    margin:20px;
+    border: solid 10px #010f5e;
+}
+li{
+    list-style-image: url(kukac.png);
+}
+.kep1_2{
+    float: right;
+    clear: both;
+    
+}
+.Alan{
+    float: left;
+    margin:0px 20px 20px 20px;
+}
+
+.jobb{
+    float: right;
+    margin:0px 20px 20px 20px;
+    
+}
+.bal{
+float: left;
+margin:0px 20px 20px 20px;
+}
+div{
+    padding-left: 80px;
+}
